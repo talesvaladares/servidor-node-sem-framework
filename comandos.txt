@@ -1,0 +1,3 @@
+npm init -y
+no package.json linha 3 => serve para fazer funcionar o import/export
+npm run dev
